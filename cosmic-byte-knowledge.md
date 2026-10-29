@@ -1,6 +1,6 @@
 # Cosmic Byte — Product Knowledge Base
 
-_Auto-generated from the official Cosmic Byte support knowledge base (source v1.17.1) on 2026-10-24. Single source of truth: do not edit by hand — it is regenerated on every update._
+_Auto-generated from the official Cosmic Byte support knowledge base (source v1.17.2) on 2026-10-29. Single source of truth: do not edit by hand — it is regenerated on every update._
 
 This document contains official product manuals, specifications, setup steps, and troubleshooting for Cosmic Byte products. It also contains the official website policies (order tracking, returns & refunds, shipping, pre-orders, warranty service, rewards) and support contacts. Use it to answer customer questions accurately. If a detail is not stated here, say it is not specified rather than guessing.
 
@@ -1666,7 +1666,7 @@ COMMON FAILURE MODES TO AVOID (BLITZ TRI-MODE AI-FACING NOTES)
   but do NOT volunteer purchase prompts on every related question. The
   customer is asking for information, not to be sold to.
 
-SKU CODES (thecosmicbyte.com invoice / order SKU — use to identify the exact variant the customer bought): TCBP03484 (Black, Tri-Mode); TCBP03486 (Grey, Tri-Mode); TCBP03487 (White, Tri-Mode); TCBP03558 (Retro, Tri-Mode); TCBP03572 (Blitz Tri-Mode charging dock — Black (controller not included)); TCBP03573 (Blitz Tri-Mode charging dock — White (controller not included)). If a customer quotes a SKU that is not listed here, it is a different product or variant — do not assume it is this one.
+SKU CODES (thecosmicbyte.com invoice / order SKU — use to identify the exact variant the customer bought): TCBP03484 (Black, Tri-Mode); TCBP03486 (Grey, Tri-Mode); TCBP03487 (White, Tri-Mode); TCBP03558 (Retro, Tri-Mode); TCBP03572 (Blitz Tri-Mode charging dock — Black (controller not included)); TCBP03573 (Blitz Tri-Mode charging dock — White (controller not included)). NOTE: a Blitz controller SKU with an A at the end (e.g. TCBP03484A) is the old Blitz Wireless dual-mode model, NOT this one — it has no Bluetooth and no software/Orbit support; use the Blitz Wireless entry. If a customer quotes a SKU that is not listed here, it is a different product or variant — do not assume it is this one.
 
 ---
 
@@ -1704,7 +1704,7 @@ KEY DIFFERENCES vs BLITZ TRI-MODE: 2.4GHz + wired ONLY (no Bluetooth), no gyro, 
 
 WARRANTY: 1 year manufacturing defects only. Physical, water damage NOT covered. Fast charger damage NOT covered.
 
-SKU CODES (thecosmicbyte.com invoice / order SKU — use to identify the exact variant the customer bought): TCBP03486A (Grey, Dual Mode (2.4GHz + wired, no Bluetooth) — DISCONTINUED; the internal SKU is the Tri-Mode code with an A suffix). If a customer quotes a SKU that is not listed here, it is a different product or variant — do not assume it is this one.
+SKU CODES (thecosmicbyte.com invoice / order SKU — use to identify the exact variant the customer bought): TCBP03484A (Black, Dual Mode); TCBP03486A (Grey, Dual Mode); TCBP03487A (White, Dual Mode) — all 2.4GHz + wired, NO Bluetooth, DISCONTINUED. RULE: the old dual-mode Blitz uses the SAME SKU as the Blitz Tri-Mode with an "A" at the end (TCBP03484 = Tri-Mode Black, TCBP03484A = Dual Mode Black, and so on) — any Blitz SKU ending in A is THIS model, not the Tri-Mode. If a customer quotes a SKU that is not listed here, it is a different product or variant — do not assume it is this one.
 
 ---
 
